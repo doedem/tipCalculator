@@ -1,0 +1,22 @@
+body {
+    background: #8E0E00;
+    background: -webkit-linear-gradient(to left, #8E0E00, #1F1C18);
+    background: linear-gradient(to left, #8E0E00, #1F1C18);
+    font-family: roboto;
+}
+
+#container {
+    background: aliceblue;
+    height: 500px;
+    width: 300px;
+    margin: auto;
+
+}
+
+h1 {
+    background: #1F1C18;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 23px;
+    color: aliceblue;
+    padding: 10px;
+}
